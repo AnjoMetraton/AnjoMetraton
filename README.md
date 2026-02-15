@@ -118,7 +118,7 @@ const atualmente = {
 
 <div align="center">
   
-[![metraton.app](https://img.shields.io/badge/metraton.app-Repositório-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnjoMetraton/metraton.app)
+[![metraton.app](https://img.shields.io/badge/metraton.app-Repositório-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnjoMetraton/metraton.app-Oluolu)
 [![metraton.app2](https://img.shields.io/badge/metraton.app2-Repositório-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnjoMetraton/metraton.app2-Oluolu)
 
 </div>
