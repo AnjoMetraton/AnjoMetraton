@@ -103,7 +103,7 @@ eu.dizer_oi()
 ```javascript
 const atualmente = {
     aprendendo: ["GO", "Microserviços", "Cloud Architecture"],
-    trabalhando_em: ["metraton.app", "Projetos Pessoais"],
+    trabalhando_em: ["metraton.app2", "Projetos Pessoais"],
     lendo: ["Clean Architecture", "Design Patterns"],
     assistindo: ["Frieren: Beyond Journey's End"],
     objetivo_2025: "Dominar linguagem GO."
